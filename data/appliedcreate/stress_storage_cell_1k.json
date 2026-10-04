@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "appliedcreate:stress_storage_component_1k"
+    },
+    {
+      "item": "appliedcreate:brass_stress_cell_housing"
+    }
+  ],
+  "result": {
+    "item": "appliedcreate:stress_storage_cell_1k",
+    "count": 1
+  }
+}
