@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer1": "kubejs:item/voltage/supracausal_computer_opv",
+      "layer0": "kubejs:item/circuit/supracausal/supracausal_computer"
+    }
+}

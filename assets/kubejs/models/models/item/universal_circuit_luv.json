@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer1": "kubejs:item/voltage/luv",
+      "layer0": "kubejs:item/circuit/universal/circuit_luv"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer1": "kubejs:item/voltage/cosmic_mainframe_opv",
+      "layer0": "kubejs:item/circuit/cosmic/cosmic_mainframe"
+    }
+}

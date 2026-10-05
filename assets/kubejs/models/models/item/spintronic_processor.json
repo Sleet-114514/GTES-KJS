@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer1": "kubejs:item/voltage/spintronic_processor_uhv",
+      "layer0": "kubejs:item/circuit/spintronic/spintronic_processor"
+    }
+}

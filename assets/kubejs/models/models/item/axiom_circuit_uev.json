@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer1": "kubejs:item/voltage/axiom_uev",
+      "layer0": "kubejs:item/circuit/axiom/axiom_circuit"
+    }
+}

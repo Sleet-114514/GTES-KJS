@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer1": "kubejs:item/voltage/gooware_processor_zpm",
+      "layer0": "kubejs:item/circuit/gooware/gooware_processor"
+    }
+}

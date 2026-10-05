@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer1": "kubejs:item/voltage/cosmc_computer_uxv",
+      "layer0": "kubejs:item/circuit/cosmic/cosmic_computer"
+    }
+}
